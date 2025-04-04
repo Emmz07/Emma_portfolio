@@ -2,7 +2,11 @@
 # Ojo Emmanuel - Portfolio Website
 
 ## 📌 Overview
-This is my personal portfolio website showcasing my skills, experience, projects, and contact information. It is built using **HTML, CSS, and JavaScript** to provide a smooth and responsive user experience.
+This is my personal portfolio website showcasing my skills, experience, projects, and contact information. It is built using **HTML, CSS, and JavaScript** to provide a smooth and responsive user experience. This website is being deployed on GitHub with the domain address:
+
+https://emmz07.github.io/Emma_portfolio/
+
+Click on the link above to view the live site.
 
 ## 🚀 Technologies Used
 - **HTML5**: Markup structure for the website.
